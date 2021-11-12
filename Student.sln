@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement", "..\StudentManagement\StudentManagement\StudentManagement.csproj", "{C220EEF3-3E94-4CF8-BDB0-00919B6D34A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C220EEF3-3E94-4CF8-BDB0-00919B6D34A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C220EEF3-3E94-4CF8-BDB0-00919B6D34A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C220EEF3-3E94-4CF8-BDB0-00919B6D34A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C220EEF3-3E94-4CF8-BDB0-00919B6D34A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
